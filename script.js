@@ -1,12 +1,8 @@
 let img_array = [
-  "/storage/emulated/0/My Coding
-file/My small project/mylove/0.jpeg",
-  "/storage/emulated/0/My Coding
-file/My small project/mylove/1.jpeg",
-  "/storage/emulated/0/My Coding
-file/My small project/mylove/2.jpeg",
-"/storage/emulated/0/My Coding
-file/My small project/mylove/3.jpeg"
+  "/Images/0.jpeg",
+  "/Images/1.jpeg",
+  "/Images/2.jpeg",
+"/Images/3.jpeg"
 ];
 const main = document.getElementById("main");
 const button = document.getElementById("changeButton");
