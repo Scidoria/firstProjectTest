@@ -1,8 +1,8 @@
 let img_array = [
-  "https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/path/to/0.jpg",
-  "https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/path/to/1.jpg",
-  "https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/path/to/2.jpg",
-"https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/path/to/3.jpg"
+  "https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/Images/0.jpg",
+  "https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/Images/1.jpg",
+  "https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/Images/2.jpg",
+"https://raw.githubusercontent.com/Scidoria/firstProjectTest/main/Images/3.jpg"
 ];
 const main = document.getElementById("main");
 const button = document.getElementById("changeButton");
